@@ -1,0 +1,4 @@
+Brief strategy explanation:
+The strategy I'll implement is a basic Moving Average Crossover system, a widely used momentum trading strategy. This strategy involves two moving averages of a stock's price — a "fast" moving average and a "slow" moving average. A buy signal occurs when the fast moving average crosses above the slow moving average, suggesting a potential uptrend. Conversely, a sell signal is triggered when the fast moving average crosses below the slow moving average, indicating a possible downtrend. This strategy will help in identifying trends and making decisions on entering or exiting trades based on the momentum of the stock price.
+
+Strategy implementation:
